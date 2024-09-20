@@ -139,5 +139,3 @@ https://github.com/david-yz-liu/memory-viz/pull/84
 - PyCharm debugger is not working! :(
   - Demo
   - If you had this error before please let me know!
-
----
